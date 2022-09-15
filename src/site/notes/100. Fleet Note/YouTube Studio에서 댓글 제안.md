@@ -21,9 +21,9 @@ youtube에서 채널 주인장(크리에이터)은 feedback을 seeking하지 않
 - 잘 알지 못하는 사람이 준 것에 대해서 대답하기가 좀 껄끄러움. -> **쉬운 action을 통해 심리적인 장벽을 허물 수 있어야 함** : 이는 결국 cost를 줄이는 행위라고 할 수 있음
 - feedback이 feedback의 형식을 갖추고 있지 않고 감상에 관한 내용이면 할 말이 없음 -> feedback의 맥락이라면 애초에 제공할 때 가이드라인이 있는 것이 반응을 유발하기에 중요함.
 
-그러나 youtube에서 cost를 줄일 수 있는 자동화된 장치를 제한적으로 제공해주고 있음. 시청자들이 남긴 댓글 중 특정 형식을 갖추고 있는 댓글의 내용에 적합한 답글을 youtube studio가 추천해주고 있음. 여기에서 선택지는 3개만 제공하고 있음.  **Hick’s Law**에 따라 자극의 갯수를 줄여 인지 시간, 즉 cost를 줄여서크리에이터의 효율적인 관리를 도와주려는 노력이 돋보임. 특정 형식은 사실상 feedback에 가깝다고 개인적으로 인지하고 있으며, positive feedback과 future feedback의 내용으로 분류할 수 있었음.
+그러나 youtube에서 cost를 줄일 수 있는 자동화된 장치를 제한적으로 제공해주고 있음. 시청자들이 남긴 댓글 중 특정 형식을 갖추고 있는 댓글의 내용에 적합한 답글을 youtube studio가 추천해주고 있음. 여기에서 선택지는 3개만 제공하고 있음.  **Hick’s Law**에 따라 자극의 갯수를 줄여 인지 시간, 즉 cost를 줄여서크리에이터의 효율적인 관리를 도와주려는 노력이 돋보임. 특정 형식은 사실상 feedback에 가깝다고 개인적으로 인지하고 있으며, Encouragement feedback과 Forward feedback을 비롯한 feedback **Topic**으로 분류할 수 있었음.
 
-<positive feedback의 사례들>
+<Encouragement feedback의 사례들>
 
 > 크 연주 너무 좋아요ㅠ
 > 
@@ -60,7 +60,7 @@ youtube에서 채널 주인장(크리에이터)은 feedback을 seeking하지 않
 >3. 감사합니다😊
 
 
-<future feedback의 사례들>
+<Forward feedback의 사례들>
 
 > 너무 좋다ㅋㅋㅋㅋ 킹참맨 빼고 연주만 한시간 버전 올려주세요ㅠㅠ
 > 
@@ -88,7 +88,7 @@ youtube에서 채널 주인장(크리에이터)은 feedback을 seeking하지 않
 ---
 
 ### 출처
-- https://www.youtube.com/channel/UCrY5G49_WQhQeKTbXfkpvqQ
+- YouTube Studio
 
 ### 연결문서
 - 
