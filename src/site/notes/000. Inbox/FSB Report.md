@@ -61,7 +61,12 @@ seeker의 피드백 요청 -> giver의 피드백 제공 -> seeker의 피드백 �
 ## 대퇴사시대의 도래
 (작성중)
 - 세계 인력의 41%가 현재 직장으로부터 이직할 것을 고려하고 있습니다[5].
-
+- 한국은 더 심한 상황입니다. 통계청에 따르면 청년들의 평균 근로기간은 1년 6.8개월입니다. 15~29세 청년 411만7000명 중 첫 직장으로 임금 근로직을 구한 청년 중 263만8000명(65.6%)이 졸업 후 첫 직장을 그만두었습니다.
+- 이직이 발생한 기업들은 가시적 손실 뿐 아니라 비가시적인 손실까지 겪게 됩니다.[6]
+	- 가시적 손실 사례 : 휴가 자본화, 채용 비용, 참조 확인, 보안 허가, 임시 직원 비용, 재배치 비용, 공식 교육 비용 및 유도 비용...
+	- 비가시적 손실 사례 : 인사 및 급여 관리 확대, 생산성 손실, 비공식 교육,  마감일 누락, 조직 지식 손실, 과로로 인한 낮은 동기 부여, 고객 손실 및 연쇄 반응 회전율...
+- 따라서 직원의 이직 의도를 줄이는 것이 중요한데, 조직 사회화가 잘 될수록 이직 의도를 줄일 수 있습니다. 조직 사회화는 조직 이탈 현상을 극복하기 위한 중요 요소가 됩니다.[7]
+- 피드백을 잘 추구하는 사람들은 새로운 환경에 더 잘 적응하기 때문에[8] 성공적인 조직 사회화를 위해서는 피드백을 적극적으로 요청할 수 있는 업무 환경을 만들어야 합니다.
 
 # 행위 기저의 동기(작성중)
 결국 개인의 동기에 따라 다르게 접근해야 함
@@ -81,3 +86,6 @@ giver의 동기도 함께 고려해야 함
 - [3]Fostering Feedback Seeking Behavior in Novice Designers
 - [4]Reflections on the Looking Glass: A Review of Research on Feedback-Seeking Behavior in Organizations
 - [5]Microsoft의 보고서
+- [6]Ashford, Susan J., and Larry L. Cummings. "Feedback as an individual resource: Personal strategies of creating information." Organizational behavior and human performance 32.3 (1983): 370-398.
+- [7]Bauer, Talya N., et al. "Newcomer adjustment during organizational socialization: a meta-analytic review of antecedents, outcomes, and methods." Journal of applied psychology 92.3 (2007): 707.
+- [8]Ashford SJ, Black JS: Proactivity during organizational entry: the role of desire for control. J Appl Psychol 1996, 81:199-214.
